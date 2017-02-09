@@ -6,7 +6,7 @@ Assessment at the end of CSS introductory section on MDN for comprehension.
   <head>
     <meta charset="utf-8">
     <title>CSS comprehension</title>
-      <link rel="stylesheet" type="text/css" href="C:\Users\jamal\Desktop\MDN Assessment\styles\mozillaFirefox.css">
+      <link rel="stylesheet" type="text/css" href="#">
   </head>
   <body>
 
